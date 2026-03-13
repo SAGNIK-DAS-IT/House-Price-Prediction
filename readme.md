@@ -61,5 +61,17 @@ To run this notebook locally and experiment with the learning rate or feature se
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SAGNIK-DAS-IT/House-Price-Prediction.git](https://github.com/SAGNIK-DAS-IT/House-Price-Prediction.git)
+   git clone https://github.com/SAGNIK-DAS-IT/House-Price-Prediction.git
    cd House-Price-Prediction
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install numpy pandas matplotlib jupyter
+   ```
+
+3. **Launch the notebook:**
+   ```bash
+   jupyter notebook Linear_Regression.ipynb
+   ```
+```
